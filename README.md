@@ -3,7 +3,7 @@ Final Dissertation Project
 
 # Purpose
 
-This notebook contains the full set of experiments for the dissertation Dialogue-Based Discourse Probing of Pretrained Language Models. It brings together the preprocessing, training, and evaluation steps for two transformer models (BART and RoBERTa) tested on dialogue data from the STAC corpus. The aim is to see how far these models can handle discourse coherence when probed with sentence ordering and next sentence prediction (NSP) tasks.
+This notebook contains the full set of experiments for the dissertation Probing Discourse Structure in Dialogue: Evaluating and Fine-Tuning RoBERTa and BART on Sentence Ordering and Next Sentence Prediction. It brings together the preprocessing, training, and evaluation steps for two transformer models (BART and RoBERTa) tested on dialogue data from the STAC corpus. The aim is to see how far these models can handle discourse coherence when probed with sentence ordering and next sentence prediction (NSP) tasks.
 
 # Contents
 
